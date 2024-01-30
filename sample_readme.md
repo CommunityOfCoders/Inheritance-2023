@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2023">
-    <img src="https://res.cloudinary.com/dn6vz8exv/image/upload/v1665664791/inh_zzefoy.jpg" alt="CoC Inheritance 2022" width="500" height="166">
+    <img src="https://drive.google.com/file/d/1AOVktb_Iw0wizwQWcDDw9E_wpE-4JQHX/view?usp=sharing" alt="CoC Inheritance 2022" width="500" height="166">
   </a>
   <br>
   Project Name
