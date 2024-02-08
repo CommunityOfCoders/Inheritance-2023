@@ -3,49 +3,32 @@
     <img src="./Untitled.png" alt="CoC Inheritance 2022" width="500" height="166">
   </a>
   <br>
-  Project Name
+  Sahaya
 </h1>
 
 <div align="center">
-   <strong>Project Name</strong> - One Sentence Description of your project<br>
-  CoC Inheritance 2023 || Team Name <br> <br>
+   <strong>Sahaya</strong> - Sahaya facilitates timely blood supply coordination between blood banks and hospitals, while offering features like storing medical histories, live location sharing, and access to health tools and first aid information, ultimately enhancing the chances of saving lives in critical medical situations<br>
+  CoC Inheritance 2023 || Pixel Pirates <br> <br>
   Add any <a href="https://shields.io/">Shields</a> here
 </div>
 <hr>
 
-<details>
-<summary>Table of Contents</summary>
-
-- [Description](#description)
-- [Links](#links)
-- [Tech Stack](#tech-stack)
-- [Progress](#progress)
-- [Future Scope](#future-scope)
-- [Applications](#applications)
-- [Project Setup](#project-setup)
-- [Usage](#usage)
-- [Team Members](#team-members)
-- [Mentors](#mentors)
-- [Screenshots](#screenshots)
-
-</details>
 
 ## 📝Description
-
-Add your **project description** here. Your project description should cover how your website/app works. That way you can convey what your project is without the need for anyone to view the code. A more *detailed README* in your project repository is encouraged, which can include build and use instructions etc.
-
-1. Include features and their usecases in bullet points
+Many People have lost their lives because of blood loss or late supply of blood of particular blood group after accidents.
+In such critical situation our website plays an important role as it provides required blood of blood group on time by creating a contact between blood bank and hospital.
+After the contact is created along with patient simultaneously blood will be supplied by the blood bank to the hospital.
+this saves precious time which can increase the chances of saving the patient's life.
+The sub feature of website includes section to store medical history of user and his family which will be helpful for doctor.
+Smart and very important feature is live location of the user will be send to ambulance and family members by simply selecting the feature.
+there will be various sections such as health tools and first aid.
 
 ## 🔗Links
 
-- [GitHub Repository]()
-- [Demo Video]()
-- [Drive Link to Screenshots of your project]()
-- [Hosted Website Link]()
-- [App APK Link]()
-- [Hosted Backend Link]()
+- [GitHub Repository](https://github.com/Asawari1027/Sahaya.git)
+- [Drive Link ](https://drive.google.com/drive/folders/1kJ8NtlU4zFKlUqUzn0Zz8HfjARynzOzr?usp=sharing)
 
-Add any more links/resources you used for your project
+
 
 ## 🤖Tech-Stack
 
@@ -56,7 +39,8 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 - HTML
 - CSS
 - JavaScript
-- etc.
+- React.
+- Bootstrap
 
 #### Back-end
 - NodeJS
@@ -65,65 +49,75 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 
 #### Database
 - MongoDB
-- SQL
-- etc.
-
-#### Computer Vision
-- OpenCV
 - etc.
 
 ## 📈Progress
 
-List down all the fully implemented features in your project
+Fully implemented features :
 
-- [x] Fully Implemented Feature 1 
-- [x] Fully Implemented Feature 2
+- [x] Surfing of pages through buttons and icons on navbar.
+- [x] Medical history
+- [x] Working SignUp and Login page and storing data in local storage.
 
-List down all the partially implemented features in your project
+Partially implemented features :
 
-- [ ] Partially Implemented Feature 1 
-- [ ] Partially Implemented Feature 2
+- [ ] Routing function in map section
 
 ## 🔮Future Scope
-
-List down all the future plans for the project here
-
-- Future Feature 1
-- Future Feature 2
+-AI-Powered Health Insights
+-Expanded Emergency Assistance
+-Implementing Machine learning
 
 ## 💸Applications
 
->How can your project do its part in solving a real-life problem? What are its possible applications? Can it be monetized? Describe here.
+Sahaya would not only provide just the information about available ambulance at that time, hospitals nearby, blood donation center nearby, but would also be a complete set of your health maintenance tool. 
+
+It would contain a reminder of what you had tested in your previous medical checkup would also provide you with the vaccinations that should have been done or have to be done in future . 
+
+It would provide you with the doctors contact information, there would be a prescription note section in which you could take pictures of your prescription and store it in an paperless form.
+
+If there is an emergency , a helper would only have to visit the site and provide some essential detail like name , phone no. , email id. As soon as the helper detail is verified and gets logged into , he\she has to provide the patients detail including name ,age ,date of birth, any previous necessary health record , personal contact info.
+ 
+This site would ask  access  to your location, It would provide
+you with a map option containing hospital, ambulance, 
+blood donation center options.
+
+The remainder and the Vaccination features are also 
+provided .Helping one to maintain the track record of all 
+the issues(BP ,pulse rate, sugar level, that are previously 
+recorded in your last medical checkup.)
+
+Helping in reduction of problems like unnecessary delay 
+of medical support ,no availability of particular blood type, 
+delayed vaccination, loosing the prescribed medicine 
+Paper.
 
 ## 🛠Project Setup
 
->Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
+1) Pull or extract from zip the public, src and other folders into local storage.
+2) Install node modules, react router dom and other necessary using command ‘npm install’ in terminal.
+
+
 
 ## 💻Usage
+1)	After setup firstly open the folder using VScode and open terminal and type command ‘npm start’ to start the react app.
+2)	Use the icons on the Sidebar  to surf through different pages 
+3)	On the Navbar there appears links to scroll down to a particular category(for ex. POPULAR) and the Login button where one can first Sign-Up and then login.
+4)	On clicking on the explore button on a movie you will  redirect to a page where you will find detailed information regarding that movie
 
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
+
 
 ## 👨‍💻Team Members
 
-Add names of your team members with their emails and links to their GitHub accounts
-
-- [Team Member 1 Name](https://github.com/): Email 
-- [Team Member 2 Name](https://github.com/): Email 
-
+Asawari Rawatale : avrawatale_b22@vjti.ac.in
+Chaitrali Patil : ccpatil_b22@vjti.ac.in
+Chitranshu Jha : ccjha_b22@vjti.ac.in
+Sakshi Rokhade : sjrokhade_b22@vjti.ac.in
+     
 ## 👨‍🏫Mentors
 
-Add names of your mentors with their emails and links to their GitHub accounts
-
-- [Mentor 1 Name](https://github.com/): Email 
-- [Mentor 2 Name](https://github.com/): Email 
+- Dhruvil Suthar
+- Vedant Gandhi
 
 ## 📱Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
-
-You'll have to link the screenshots from your drive folder here.
-
-![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
-
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
 
