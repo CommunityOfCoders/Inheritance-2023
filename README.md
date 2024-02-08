@@ -35,7 +35,6 @@
 Welcome to Collect Karo, your reliable partner for swift and secure deliveries. Whether you need packages shipped locally or internationally, our efficient and experienced team ensures timely delivery with a focus on customer satisfaction. With user-friendly features and competitive rates, trust us to handle your deliveries with care and precision. Experience convenience at its best with Collect Karo.
 
 
-
 ## 🔗Links
 
 - [https://github.com/Apoorva2812/collect_karo.git]()
