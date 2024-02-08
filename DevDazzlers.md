@@ -53,7 +53,7 @@ This innovative approach enhances accessibility and flexibility for both event o
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/NiranjanMore10/EventMint.git)
-- [Demo Video](https://drive.google.com/drive/folders/1J2MQuSqYkXvjSrx8hJ4zXfokUBKaHRbp?usp=sharing)
+- [Demo Video]()
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1kzhaGKkNnI3-ZYZS5kK0h2h7TiHndFuN?usp=sharing)
 - [Hosted Website Link](Yet to Host)
 - [Hosted Backend Link](Yet to Host)
