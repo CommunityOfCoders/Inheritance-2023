@@ -93,9 +93,9 @@ List down all the fully implemented features in your project
 
 List down all the partially implemented features in your project
 
-- [ ] Reminderd 
+- [ ] Reminder
 - [ ] Review Updation
-- [ ] 
+- [ ] Detailed Filteration
 
 ## 🔮Future Scope
 
@@ -108,7 +108,7 @@ List down all the future plans for the project here
 
 ## 💸Applications
 
-Our website 
+Our website becomes a platform for our users to find property without paying any commision as well as carry all the activities through our website only.It also maintains the privacy of the owners not exposing their personal details to any misuse.
 ## 🛠Project Setup
 
 >Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
