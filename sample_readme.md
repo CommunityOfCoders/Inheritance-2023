@@ -7,8 +7,8 @@
 </h1>
 
 <div align="center">
-   <strong>Project Name</strong> - One Sentence Description of your project<br>
-  CoC Inheritance 2023 || Team Name <br> <br>
+   <strong>All in one investment manager</strong> - A single app to keep track of all of your investments<br>
+  CoC Inheritance 2023 || Neural Net Ninjas <br> <br>
   Add any <a href="https://shields.io/">Shields</a> here
 </div>
 <hr>
@@ -32,20 +32,19 @@
 
 ## 📝Description
 
-Add your **project description** here. Your project description should cover how your website/app works. That way you can convey what your project is without the need for anyone to view the code. A more *detailed README* in your project repository is encouraged, which can include build and use instructions etc.
+A personalized stock market portfolio, with the ability to track the live prices for any stock you want. This is done by an API call to fetch the data for the selected stock/s. You can add a particular stock to the list of your owned stocks, or can add it to a watchlist in case you change your mind. The user can also get a detailed predeiction for the selected stock, given by our Arima based model.
 
-1. Include features and their usecases in bullet points
+Features:
+1. A stock list to keep track of currently owned stocks
+2. A watchlist for storing stocks for future refernce
+3. Live stock prices provided via the AlphaVantage API
+4. A portfolio to view your networth and net gains
+5. Stock price predictions using the arima model
 
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/stranger-scripts-06/investment-manager)
-- [Demo Video]()
-- [Drive Link to Screenshots of your project]()
-- [Hosted Website Link]()
-- [App APK Link]()
-- [Hosted Backend Link]()
-
-Add any more links/resources you used for your project
+- [Screenshots drive link](https://drive.google.com/drive/folders/17k75AuwpqmRZmb5DFzgMDDRXtjaKLepG?usp=drive_link)
 
 ## 🤖Tech-Stack
 
@@ -62,9 +61,6 @@ Add any more links/resources you used for your project
     - flutter_webview_plugin
     - flutter_neumorphic
     - flutter_typeahead
-
-
-
 
 #### Database -
 -  Firebase
@@ -102,15 +98,19 @@ Add any more links/resources you used for your project
 
 ## 💸Applications
 
->How can your project do its part in solving a real-life problem? What are its possible applications? Can it be monetized? Describe here.
+>This app is aimed at simplifying stock trading and investment for new comers to the feild, by collecting all the required resources in one place. At the same time we provide more experienced users all the metrics they would need to make the decision. Users also have the ability to check the prices for up to the next 50 days for any stock. This would allow them to have a second opinon before buying anything.
+>Please note that as of now, the app only supports the stocks trading in the NSE. The app also does not have any payment support.
 
 ## 🛠Project Setup
 
->Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
+> To setup the app, you must first need an IDE, like android studio or VScode, which is capable of running dart code.
+> You must also have a firebase account setup, if you want to access the database directly.
+> After that download the libraries mentioned in the tech stack for AI/Ml to ensure that the model runs
+> Then you can just clone the repository.
 
 ## 💻Usage
 
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
+> To use the app, just run the main.dart file from the cloned repository. This will open the app on an emulator or on an connected Android device.
 
 ## 👨‍💻Team Members
 
@@ -127,12 +127,9 @@ Add any more links/resources you used for your project
 - [Rushi Jani](https://github.com/R-V-J)  : rvjani22@gmail.com 
 
 ## 📱Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
 
-You'll have to link the screenshots from your drive folder here.
+![Stocks page screenshot](https://drive.google.com/file/d/1p6iRnL3RlUqL355v-GK7PmuR99XhrLgt/view?usp=drive_link)
+![Stock predictions](https://drive.google.com/file/d/1ejcp3Y-xD6SYpmv9_MzVkXA3akfYmBYV/view?usp=drive_link)
+![Stocks page with overlay](https://drive.google.com/file/d/1k3JFnc4Nu14d9V_OP8WM-DNiRO56i9Mw/view?usp=drive_link)
 
-![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
-
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
 
