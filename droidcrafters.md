@@ -3,7 +3,7 @@
     <img src="./Untitled.png" alt="CoC Inheritance 2022" width="500" height="166">
   </a>
   <br>
-  Project Name
+  Vjti Hostel
 </h1>
 
 <div align="center">
@@ -37,7 +37,7 @@ registers. This results into, at times loss of data and confusion. Moreover, the
 entries for students are not regularly audited. 
 To overcome this problem, a Hostel Management System is to be developed 
 that has the following major features: 
-• Hostel registration form filling
+• Hostel registration form filling <br>
 • Room allotment Data
 • In-out data
 • Leave application data
