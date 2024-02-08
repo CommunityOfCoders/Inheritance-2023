@@ -50,7 +50,6 @@ Pecunia is like a matchmaking site for students and companies. It serves as a br
 - [Hosted Website Link](https://pecunia-ochre.vercel.app/)
 - [Hosted Backend Link](mongodb://localhost:27017)
 
-
 ## 🤖Tech-Stack
 
 #### Front-end
