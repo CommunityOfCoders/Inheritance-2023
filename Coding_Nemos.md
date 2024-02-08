@@ -103,7 +103,7 @@ Each NFT represents a unique piece of digital art, providing verifiable proof of
 
 ## 👨‍💻Team Members
 
-- [Adi Awaskar](https://github.com/Ad): Email: adiawaskar04@gmail.com
+- [Adi Awaskar](https://github.com/adiawaskar): Email: adiawaskar04@gmail.com
 - [Ritika Nankar](https://github.com/Ritika128): Email: nankarritika12@gmail.com
 - [Isha Nair](https://github.com/IshaNair09): Email: ishanair001@gmail.com
 
