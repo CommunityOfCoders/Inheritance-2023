@@ -121,17 +121,17 @@ Our website becomes a platform for our users to find property without paying any
 
 Add names of your team members with their emails and links to their GitHub accounts
 
-- [Team Member 1 Sanskar Wakchaure](https://github.com/):spwakchaure_b22@ce.vjti.ac.in
+- [Team Member 1 Sanskar Wakchaure](https://github.com/MynameisSanskar):spwakchaure_b22@ce.vjti.ac.in
 - [Team Member 2 Keshav Dhanuka](https://github.com/KeshavD01): ksdhanuka_b22@it.vjti.ac.in
-- [Team Member 2 Keshav Dhanuka](https://github.com/KeshavD01): ksdhanuka_b22@it.vjti.ac.in
-- [Team Member 2 Keshav Dhanuka](https://github.com/KeshavD01): ksdhanuka_b22@it.vjti.ac.in 
+- [Team Member 2 Denish Suhagiya](https://github.com/Denish004): denishsuhagiya18@gmail.com
+- [Team Member 2 Ariv Fernandes](https://github.com/KeshavD01): ksdhanuka_b22@it.vjti.ac.in 
 
 ## 👨‍🏫Mentors
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Mentor 1 Rohan Fatehchandka](https://github.com/): Email 
-- [Mentor 2 Ruchika Shirsath](https://github.com/): Email 
+- [Mentor 1 Rohan Fatehchandka](https://github.com/rohanfatehchandka)):rohanfatehchandka@gmail.com
+- [Mentor 2 Ruchika Shirsath](https://github.com/Ruchika-2003):ruchikashirsath2003@gmail.com
 
 ## 📱Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
