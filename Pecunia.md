@@ -153,8 +153,8 @@ If you need help using the website or finding a job, there are resources availab
 ## 👨‍💻Team Members
 
 - [Abhjit Adsul](https://github.com/blindcoder55): abhijitadsul2004@gmaIl.com 
-- [Vini Gaikwad](https://github.com/): Email 
-- [Shubhangi Bagul](https://github.com/shubhO4): Email
+- [Vini Gaikwad](https://github.com/phant0m01022004): vinitgaikwad04@gmail.com
+- [Shubhangi Bagul](https://github.com/shubhO4): shubhangibagul63@gmail.com
 - [Adyan Tisekar](https://github.com/toroO4): adyantisekar04@gmail.com
 
 ## 👨‍🏫Mentors
@@ -163,12 +163,8 @@ If you need help using the website or finding a job, there are resources availab
 - [Dev Bhuva](https://github.com/DEVelooper29): devbbhuva@gmail.com 
 
 ## 📱Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
-
-You'll have to link the screenshots from your drive folder here.
 
 ![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
 
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
+
 
