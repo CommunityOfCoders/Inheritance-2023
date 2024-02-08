@@ -104,7 +104,14 @@ CVsavvy is an AI-powered resume screening tool that automates the initial screen
 - Enhancing the project to support customizable requirements for recruiters. This will enable them to specify unique skills, qualifications, and cultural fit criteria, ensuring a tailored and efficient hiring process.
 
 ## 💸Applications
-
+  - Efficient Resume Screening:
+    - Accelerates the initial screening process by automating the analysis of resumes using NLP algorithms.
+  - Time Efficiency for Recruiters:
+    - Enables recruiters to quickly rank and assess multiple resumes in bulk, saving time in the candidate selection process.
+  - Streamlined Hiring Process:
+    - Streamlines the hiring process by automating repetitive tasks, allowing recruiters to focus on more strategic aspects of recruitment.
+  - Reduced Hiring Bias:
+    - Contributes to reducing hiring bias by providing an objective ranking system based on specified skills, promoting a fair and equitable hiring process.
 ## 🛠Project Setup && 💻Usage
 >Clone the git repo
 ```
