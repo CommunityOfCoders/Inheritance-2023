@@ -40,7 +40,7 @@ Meet NexTrip, your go-to travel companion crafted by our team for seamless trip 
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/vxyzs/Neural-Nexus)
-- [Demo Video]()
+- [Demo Video](https://drive.google.com/file/d/1LpA8nPUvGM7zmD_sa8p4LOxcm-VT4m5F/view?usp=sharing)
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/u/1/folders/1Mr50jWa19P459_gBYpcUDsGNswBmvKpm)
 - [Hosted Website Link](https://neural-nexus-frontend.vercel.app/)
 - [Hosted Backend Link](https://neural-nexus-api.vercel.app/)
