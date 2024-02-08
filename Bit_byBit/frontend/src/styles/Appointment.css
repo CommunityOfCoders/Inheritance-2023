@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300&family=Open+Sans&family=Quicksand:wght@300&family=Roboto:wght@300;400&display=swap");
+
+.Appointment {
+  height: 80%;
+  width: 80%;
+  /* border: 1px solid red; */
+}
+
+.box {
+  height: 60%;
+  width: 100%;
+  padding-left: 30px;
+  /* padding-top: 30px; */
+  display: flex;
+  flex-direction: column;
+  /* border: 1px solid red; */
+}
+
+.box h1 {
+  font-family: "Roboto", sans-serif;
+}
+
+.text-required {
+  width: 60%;
+  /* border: 1px solid red; */
+}
+
+.button {
+  width: 15%;
+  height: 50px;
+  margin-top: 20px;
+  border-radius: 8px;
+  border: 0px;
+  color: white;
+  font-size: medium;
+  font-weight: bolder;
+  background-color: blueviolet;
+}
+
+.bar {
+  border-top: 2px solid rgba(0, 0, 0, 0.479);
+  /* border-bottom: 2px solid rgba(0, 0, 0, 0.507); */
+  margin-top: 30px;
+  height: 5px;
+  width: 100%;
+}
+
+.expense-filter {
+  color: black;
+  /* background-color: gray; */
+  border: 1px solid rgba(0, 0, 0, 0.226);
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.expense-filter:hover {
+  border: 1px solid black;
+}
+.expense-filter__control {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.expense-filter__control label {
+  font-size: larger;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+}
+
+.expense-filter__control select {
+  font: inherit;
+  border-radius: 6px;
+  font-weight: bold;
+  padding: 0.5rem 3rem;
+  font-family: "Roboto", sans-serif;
+}

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="Web site created using create-react-app" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+  <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <title>React App</title>
+  <style>
+    .Home {
+      background-image: url('https://i.ibb.co/pv7nbVS/adhy-savala-zbpgm-Ge27p8-unsplash.png');
+      /* background-repeat: no-repeat; */
+      background-size: cover;
+      z-index: -100;
+      /* backdrop-filter: brightness(80%) blur(3px); */
+    }
+
+    .loginimg {
+      background-image: url('https://i.ibb.co/41Hz1zF/image.png');
+      z-index: 50;
+      -webkit-backdrop-filter: blur(3px);
+    }
+
+    .invert {
+      filter: invert(100%);
+    }
+    .navbar {
+            background-color: #4CAF50;
+        }
+
+        .navbar a {
+            color: #fff;
+        }
+
+        .hero {
+            height: 500px;
+            background-size: cover;
+            background-position: center;
+            transition: background-image 0.5s ease-in-out;
+        }
+
+        .search-bar {
+            flex: 1; /* Fill remaining space */
+            margin: 0 auto; /* Center horizontally */
+            max-width: 600px; /* Increased max-width */
+        }
+
+        .search-input {
+            border: none;
+            border-radius: 9999px; /* Make it round */
+            padding: 12px 20px;
+            width: 100%;
+            font-size: 1rem;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            transition: box-shadow 0.3s ease;
+        }
+
+        .search-input:focus {
+            outline: none;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .login-btn {
+            background-color: #4CAF50;
+            color: #fff;
+            transition: transform 0.3s;
+            width: 200px; /* Set width */
+            height: 60px; /* Set height */
+            line-height: 60px; /* Center text vertically */
+            font-size: 1.2rem; /* Increased font size */
+        }
+
+        .login-btn:hover {
+            transform: translateY(-5px);
+        }
+
+        html{
+            /* background: #000; */
+        }
+
+        /* Blog card styles */
+        .blog-card {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .blog-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Navbar dropdown */
+        .dropdown-menu {
+            display: none;
+        }
+
+        .navbar-mobile {
+            display: none;
+        }
+
+        @media (max-width: 768px) {
+            .hero {
+                height: 400px;
+            }
+
+            .search-bar {
+                flex: 1;
+                max-width: none;
+                margin: 10px;
+            }
+
+            .login-btn {
+                width: 150px;
+                height: 50px;
+                line-height: 50px;
+                font-size: 1rem;
+            }
+
+            .navbar-desktop {
+                display: none;
+            }
+
+            .navbar-mobile {
+                display: block;
+            }
+
+            .dropdown-menu {
+                display: block;
+            }
+
+            .dropdown-item {
+                padding: 10px;
+                border-bottom: 1px solid #ddd;
+            }
+
+            .dropdown-item:last-child {
+                border-bottom: none;
+            }
+        }
+  </style>
+</head>
+
+<body class=" ">
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+  <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+</body>
+
+</html>
