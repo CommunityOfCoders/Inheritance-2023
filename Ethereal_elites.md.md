@@ -84,12 +84,14 @@ List down all the future plans for the project here
 
 The application of a Fake Products Identification System using blockchain technology has numerous real-world use cases across various industries. Here are several applications where such a system could be implemented:
 
-Authentication of Luxury Goods: 
-Luxury brands use blockchain to authenticate products, assigning each item a unique digital certificate stored on the blockchain. Consumers can verify authenticity by accessing this certificate, helping to combat counterfeiters.
+- Processed Food Items:Your ultimate dining companion!Effortlessly identify any food product with precision and ease using our cutting-edge system. With instant access to detailed information including ingredients, nutritional values, and allergens, make informed decisions and discover new flavors confidently. Say goodbye to guessing games and hello to a seamless culinary journey with Us.
 
-Pharmaceutical Traceability: The pharmaceutical industry can implement blockchain-based systems to track the production, distribution, and sale of drugs. By recording each transaction on the blockchain, stakeholders can ensure the integrity of the supply chain and prevent the distribution of counterfeit or substandard medications.
+- Cosmetics: Unveil the truth behind your cosmetic choices by ensuring they originate from the genuine source. Embrace the confidence that comes with verified products, promising you a radiant and glamorous allure. Let your beauty shine, backed by the assurance of authenticity
 
-Authentication of Artwork and Collectibles: Artists and collectors can use blockchain technology to verify the authenticity of artwork and collectibles. By registering each piece on the blockchain, stakeholders can create a tamper-proof record of ownership and provenance, reducing the risk of fraud and forgery in the art market.
+- Clothes: Walk in style, knowing each piece is genuine, bringing you the latest fashion with the confidence of verification. Elevate your wardrobe, embrace originality.
+
+- Medicines and Pharmaceuticals:  
+Identifying fake medicines offers key advantages: safeguarding public health, ensuring treatment efficacy, preventing adverse reactions, maintaining trust in healthcare, reducing economic losses, and combating organized crime.
 
 Overall, the application of a Fake Block Identification System using blockchain technology has the potential to enhance authenticity verification across a wide range of industries, providing stakeholders with a secure and transparent way to verify the authenticity of goods, documents, and identities.
 
@@ -98,16 +100,12 @@ MONETISATION:
 Monetizing a Fake Block Identification System using blockchain technology involves offering services or solutions related to authenticity verification for a fee. Here are several monetization strategies for such a system:
 
 1. A total of 5% is taken from the products cost. This is will be a part of the registration and usage fee. No separate fees will later be taken. 
-  
-3. Advertisement:  
 
+2. **Subscription-based Services**: Offer subscription plans for businesses or individuals to access the authentication services provided by the system. Different tiers of subscription can be offered, each providing varying levels of features and authentication capabilities.
 
-1. **Subscription-based Services**: Offer subscription plans for businesses or individuals to access the authentication services provided by the system. Different tiers of subscription can be offered, each providing varying levels of features and authentication capabilities.
+3. **Transaction Fees**: Charge a small fee for each transaction or verification request processed by the system. This could be a per-transaction fee or a percentage-based fee on the value of the transaction.
 
-2. **Transaction Fees**: Charge a small fee for each transaction or verification request processed by the system. This could be a per-transaction fee or a percentage-based fee on the value of the transaction.
-
- 3. **Blockchain-based Tokens **: Introduce a blockchain-based token or cryptocurrency that powers the Fake Block Identification System. Users can purchase tokens to access authentication services or participate in the ecosystem, with the potential for token appreciation over time.
-Tokens
+ 4. **Blockchain-based Tokens **: Introduce a blockchain-based token or cryptocurrency that powers the Fake Block Identification System. Users can purchase tokens to access authentication services or participate in the ecosystem, with the potential for token appreciation over time.
 
 By leveraging these monetization strategies, a Fake Block Identification System using blockchain technology can generate revenue while providing valuable authenticity verification services to businesses and individuals across various industries.
 
