@@ -44,7 +44,7 @@ Our project is a comprehensive tool designed to benefit a wide range of users, i
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/kasodeep/inheritance-project)
-- [Demo Video](https://drive.google.com/uc?id=1J53cTCYX3ZwBVqNyUflVwBTp-l1nMm0l&export=download)
+- [Demo Video](https://drive.google.com/file/d/1J53cTCYX3ZwBVqNyUflVwBTp-l1nMm0l/view?usp=drive_link)
 
 <!-- Add any more links/resources you used for your project -->
 
