@@ -49,8 +49,7 @@ Effortlessly narrow down your choices using various filters, ensuring a swift an
 - [GitHub Repository](https://github.com/KeshavD01/WebGeniusAi.git)
 - [Demo Video]()
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/15FuSNA6JsUzyZtmp9VBSMKiQ8Z9Ghr4l?usp=drive_link)
-- [Hosted Website Link]()
-- [Hosted Backend Link]()
+
 
 
 
@@ -75,8 +74,7 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 - MongoDB
 - etc.
 
-#### nlp
--Ml
+
 
 ## 📈Progress
 
