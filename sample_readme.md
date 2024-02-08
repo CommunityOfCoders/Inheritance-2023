@@ -32,9 +32,17 @@
 
 ## 📝Description
 
-Our website becomes an effective path for out users to find their abode from start to end.The user can look through a variety of properties listed across the city by various landlords and select their desired choice that check all their parameters.A detailed outlook of the property is provided that include the carpet size,clear live images of the apartment,bhk,ammenities provided as well as the exact loaction on the map.The user can filter out the properties based on various parameters helping him to find his right choice in a quick and hassle free way.We also provide an interface for the landlords as well who can easily list down their properties and as well mantain a record of their existing that are under possession and those that are not.This is not it, once the an agreement is set we provide an tenant-landlord interface where the tenant can chat the landlord.The landlord would also have the feature to add reminders regarding bill payments and other services that would alert the tenant when due. 
 
-1. Include features and their usecases in bullet points
+Embark on a transformative journey with our website, your ultimate companion in the quest for the perfect home. Explore a diverse range of properties meticulously curated by various landlords across the city. Choose your ideal abode with confidence, ensuring every aspect aligns with your preferences. Our platform provides an in-depth perspective, offering details like carpet size, vivid images, BHK configuration, amenities, and precise location on the map.
+Effortlessly narrow down your choices using various filters, ensuring a swift and hassle-free selection process. For landlords, we offer a seamless interface to effortlessly list and manage their properties. Keep track of your portfolio, distinguishing between properties under possession and those available. Once an agreement is reached, our tenant-landlord interface facilitates easy communication. Landlords can even set reminders for bill payments and other services, ensuring timely alerts for tenants. Welcome to a hassle-free, comprehensive real estate experience. 
+
+1. Displaying Realtime Reviews of our website users
+2. An extensive search bar that helps users to filter out properties
+3. Displaying Map Loaction of the property
+4. Chatbot for assistance
+5. Easy listing and modification of properties by owners
+6. A chatsystem that makes the communication of the owner and the tenant easier
+7. Adding reminders that ping the user on due payments
 
 ## 🔗Links
 
@@ -100,8 +108,7 @@ List down all the future plans for the project here
 
 ## 💸Applications
 
->How can your project do its part in solving a real-life problem? What are its possible applications? Can it be monetized? Describe here.
-
+Our website 
 ## 🛠Project Setup
 
 >Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
