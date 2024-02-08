@@ -9,7 +9,6 @@
 <div align="center">
    <strong>WHYT</strong> -The class topper's own notes taker<br>
   CoC Inheritance 2023 || HackElite <br> <br>
-  Add any <a href="https://shields.io/">Shields</a> here
 </div>
 <hr>
 
