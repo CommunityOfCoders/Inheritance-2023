@@ -127,7 +127,9 @@ Add a few screenshots for parts of the project completed till now to give the vi
 
 You'll have to link the screenshots from your drive folder here.
 
-![Screenshot alt text]("C:\Users\apoor\OneDrive\Pictures\Screenshots\Screenshot (1).png" "Here is a screenshot")
+![Screenshot alt text]("https://drive.google.com/file/d/1zczlv2VqSiZE5oV7nqgfy4l9ksWVSgJF/view?usp=sharing" "Here is a screenshot")
+![Screenshot alt text]("https://drive.google.com/file/d/1X0OHtZwbdguXdwv_yzPt-JK5IOUCy4iW/view?usp=sharing" "Here is a screenshot")
+![Screenshot alt text]("https://drive.google.com/file/d/1fStkykqv4nGNYsB6c6RP7JK2BkdkWdsi/view?usp=sharing" "Here is a screenshot")
 
 Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
 For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
