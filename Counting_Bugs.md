@@ -44,7 +44,7 @@ Overall, a doctor appointment app serves as a one-stop solution for individuals 
 
 - https://github.com/Shreyash16b/Counting_Lives.git
 - https://www.figma.com/file/7CcAPTvrPWjJUjCUfoHSdS/Doctor-App-v1.0?type=design&node-id=3%3A1002&mode=design&t=aF1VZ0cowwDAu5DU-1
-
+- https://drive.google.com/drive/folders/1_wXMw46l5dlIcmPga1BUF2haienR2t66?usp=drive_link
 ### Tech-Stack
 
 - get - State management
