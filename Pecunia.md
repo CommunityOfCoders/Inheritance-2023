@@ -3,11 +3,11 @@
     <img src="./Untitled.png" alt="CoC Inheritance 2022" width="500" height="166">
   </a>
   <br>
-  Project Name
+  Pecunia
 </h1>
 
 <div align="center">
-   <strong>Project Name</strong> - One Sentence Description of your project<br>
+   <strong>Pecunia</strong> - One Sentence Description of your project<br>
   CoC Inheritance 2023 || Team Name <br> <br>
   Add any <a href="https://shields.io/">Shields</a> here
 </div>
