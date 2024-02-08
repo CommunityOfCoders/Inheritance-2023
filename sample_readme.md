@@ -112,7 +112,17 @@ Our website becomes a platform for our users to find property without paying any
 ## 🛠Project Setup
 
 For the Web-App 1.Clone the GitHub repo.
-git clone 
+git clone https://github.com/KeshavD01/Inheritance-2023.git
+
+2.Enter the client directory. Install all the required dependencies.
+  cd client
+  npm install
+  npm start
+
+3.To start the backend server:
+  cd server
+  npm install
+  npm run dev
 
 ## 💻Usage
 
