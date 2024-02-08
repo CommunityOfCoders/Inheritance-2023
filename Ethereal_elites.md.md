@@ -43,7 +43,7 @@
 - [GitHub Repository](https://github.com/NaikVedhas/Fake-Product-Identification-System)
 - [Demo Video](https://bit.ly/3HVumiF)
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1955mXzzcIVcYfn1tcpJ8Nlackz-ZUSTg?usp=drive_link)
-- [Hosted Website Link]()
+- [Hosted Website Link](https://drive.google.com/drive/u/0/folders/1JhuII8q-ysIrIxKp58Tsn0VVhR6ai7Du)
 
 
 #### Front-end
