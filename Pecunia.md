@@ -71,13 +71,15 @@ Pecunia is like a matchmaking site for students and companies. It serves as a br
 
 List down all the fully implemented features in your project
 
-- [x] Fully Implemented Feature 1 
-- [x] Fully Implemented Feature 2
+- [x] Fully Implemented Landing Page 
+- [x] Fully Implemented Login Page
+- [x] Fully Implemented Sign Up Page
 
 List down all the partially implemented features in your project
 
-- [ ] Partially Implemented Feature 1 
-- [ ] Partially Implemented Feature 2
+- [ ] Partially Implemented Student Homepage 
+- [ ] Partially Implemented StartUps Homepage 
+- [ ] Partially Implemented Companies Homepage 
 
 ## 🔮Future Scope
 
