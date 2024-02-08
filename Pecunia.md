@@ -171,6 +171,7 @@ If you need help using the website or finding a job, there are resources availab
   <a href="https://github.com/CommunityOfCoders/Inheritance-2023">
     <img src="./pecunia.png" alt="Shark Tank X LinkedIn" width="500" height="166">
   </a>
+  <br>
   <a href="https://github.com/CommunityOfCoders/Inheritance-2023">
     <img src="./piechart.png" alt="piechart" width="500" height="166">
   </a>
