@@ -115,16 +115,14 @@ To overcome this problem, a Hostel Management System is to be developed
 
 Add names of your team members with their emails and links to their GitHub accounts
 
-- [Ruchi Ingle](https://github.com/): Email 
-- [Anisha Nemade](https://github.com/): Email 
-- [Dakshayani Vaishnav](https://github.com/): Email 
-- [Vaibhavi Chaughule](https://github.com/): Email 
+- [Ruchi Ingle](https://github.com/): ruchiingle@gmail.com
+- [Anisha Nemade](https://github.com/anisha_n12): nemadeanisha04@gmail.com
+- [Dakshayani Vaishnav](https://github.com/): dakshayanivaishnav16@gmail.com
+- [Vaibhavi Chaughule](https://github.com/): vaibhavichaughule@gmail.com
 
 
 ## 👨‍🏫Mentors
 
-Add names of your mentors with their emails and links to their GitHub accounts
-
-- [Akshay Potkhule](https://github.com/): Email 
-- [Rishabh Singh](https://github.com/): Email 
+- [Akshay Potkhule](https://github.com/akshay-git20):  akshaypatkhule123@gmail.com
+- [Rishabh Singh](https://github.com/rishabhsingh9861): rishabhsingh9861@gmail.com
 
