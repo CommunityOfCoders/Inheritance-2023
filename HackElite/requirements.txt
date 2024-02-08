@@ -1,8 +1,0 @@
-transformers
-moviepy
-torch
-torchvision
-imagehash
-FPDF
-langdetect
-flask_cors
