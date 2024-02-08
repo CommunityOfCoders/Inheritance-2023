@@ -36,18 +36,18 @@ The VJTI Hostels are completely managed by the hostel staff on pen and
 registers. This results into, at times loss of data and confusion. Moreover, the in-out 
 entries for students are not regularly audited. 
 To overcome this problem, a Hostel Management System is to be developed 
-that has the following major features: 
+that has the following major features: <br>
 • Hostel registration form filling <br>
-• Room allotment Data
-• In-out data
-• Leave application data
-• Room chage data
-• Complaint Box
-• Hostel notice board
-• Attendance through App
-• Guest allotment 
-• Hostel Facilities 
-• Room change applications
+• Room allotment Data <br>
+• In-out data <br>
+• Leave application data <br>
+• Room chage data <br>
+• Complaint Box<br>
+• Hostel notice board<br>
+• Attendance through App<br>
+• Guest allotment <br>
+• Hostel Facilities <br>
+• Room change applications<br>
 
 ## 🔗Links
 
