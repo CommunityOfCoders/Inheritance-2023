@@ -9,7 +9,7 @@
 <div align="center">
    <strong>Vjti Hostel</strong> - Digitize the process<br>
   CoC Inheritance 2023 || Droidcrafters <br> <br>
-  Add any <a href="https://shields.io/">Shields</a> here
+ 
 </div>
 <hr>
 
