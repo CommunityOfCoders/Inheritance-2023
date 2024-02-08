@@ -110,6 +110,49 @@ registers. This results into, at times loss of data and confusion. Moreover, the
 entries for students are not regularly audited. 
 To overcome this problem, a Hostel Management System is to be developed
 
+## 🛠Project Setup
+##### 👉 Requirements:
+
+Any Operating System (ie. MacOS X, Linux, Windows)
+
+Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+
+A little knowledge of Dart and Flutter.
+
+1 GB storage
+
+##### 💻 Setup:
+
+Clone this github repository into your local device.
+
+Open the project folder in your IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc).
+
+Install all the packages required. Run flutter pub get from the terminal to install the required packages.
+
+If you want to collaborate please contact the undersigned.
+
+## 💻Usage
+👤 
+
+When presented with the Home page, user can navigate through the photo gallery and informative options about hostel
+
+Student can go to Registration forms option, to apply for Hostel
+
+Any registered Warden or Rector can log in to their profiles, or new registration for the same can be done with admin rights
+
+Admin:
+The admin can register users as Rector or Warden, and allotment of the registered students is also handled through this profile.
+
+Students:
+Allotted students are provided with their default credentials, and can log in to their accounts.
+Students can thereby provide daily attendance in given timeline, along with other facilities like in-out data or leave application.
+
+Rector:
+User who is logged in as Rector can view and manage wardens, and analyse room change or leave applications along with handling complaints from students.
+
+Warden:
+User who is logged in as Warden can view daily attendance of students in their respective blocks and can manage accepting or rejecting the attendance of a student beyond the given timeline.
+
 
 ## 👨‍💻Team Members
 
