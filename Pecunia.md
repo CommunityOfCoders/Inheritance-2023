@@ -152,16 +152,12 @@ If you need help using the website or finding a job, there are resources availab
 
 ## 👨‍💻Team Members
 
-Add names of your team members with their emails and links to their GitHub accounts
-
 - [Abhjit Adsul](https://github.com/blindcoder55): abhijitadsul2004@gmaIl.com 
 - [Vini Gaikwad](https://github.com/): Email 
-- [Shubhangi Bagul](https://github.com/): Email
+- [Shubhangi Bagul](https://github.com/shubhO4): Email
 - [Adyan Tisekar](https://github.com/toroO4): adyantisekar04@gmail.com
 
 ## 👨‍🏫Mentors
-
-Add names of your mentors with their emails and links to their GitHub accounts
 
 - [Siddhant Baheti](https://github.com/): bahetisid06@gmail.com
 - [Dev Bhuva](https://github.com/DEVelooper29): devbbhuva@gmail.com 
