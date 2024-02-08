@@ -3,13 +3,13 @@
     <img src="./Untitled.png" alt="CoC Inheritance 2022" width="500" height="166">
   </a>
   <br>
-  Project Name
+  COLLECT KARO
 </h1>
 
 <div align="center">
-   <strong>Project Name</strong> - One Sentence Description of your project<br>
-  CoC Inheritance 2023 || Team Name <br> <br>
-  Add any <a href="https://shields.io/">Shields</a> here
+   <strong>Project Name</strong> - Delivery service provider website<br>
+  CoC Inheritance 2023 || MINDSPARK <br> <br>
+  
 </div>
 <hr>
 
@@ -32,80 +32,69 @@
 
 ## 📝Description
 
-Add your **project description** here. Your project description should cover how your website/app works. That way you can convey what your project is without the need for anyone to view the code. A more _detailed README_ in your project repository is encouraged, which can include build and use instructions etc.
+Welcome to Collect Karo, your reliable partner for swift and secure deliveries. Whether you need packages shipped locally or internationally, our efficient and experienced team ensures timely delivery with a focus on customer satisfaction. With user-friendly features and competitive rates, trust us to handle your deliveries with care and precision. Experience convenience at its best with Collect Karo.
 
-1. Include features and their usecases in bullet points
+
 
 ## 🔗Links
 
 - [https://github.com/Apoorva2812/collect_karo.git]()
-- [Demo Video]()
-- [Drive Link to Screenshots of your project]()
-- [Hosted Website Link]()
-- [App APK Link]()
-- [Hosted Backend Link]()
-
-Add any more links/resources you used for your project
+- [https://drive.google.com/file/d/1fStkykqv4nGNYsB6c6RP7JK2BkdkWdsi/view?usp=drive_link
+- https://drive.google.com/file/d/1X0OHtZwbdguXdwv_yzPt-JK5IOUCy4iW/view?usp=drive_link
+- https://drive.google.com/file/d/1zczlv2VqSiZE5oV7nqgfy4l9ksWVSgJF/view?usp=drive_link]()
 
 ## 🤖Tech-Stack
-
-Mention all languages/libraries/frameworks used in your project **domain-wise**  
-You can use icons too - find them [here](https://github.com/get-icon/geticon)
 
 #### Front-end
 
 - HTML
 - CSS
 - JavaScript
-- etc.
+- react JS
 
 #### Back-end
 
 - NodeJS
 - ExpressJS
-- etc.
-
+  
 #### Database
 
 - MongoDB
-- SQL
-- etc.
-
-#### Computer Vision
-
-- OpenCV
-- etc.
 
 ## 📈Progress
 
 List down all the fully implemented features in your project
 
-- [x] Fully Implemented Feature 1
-- [x] Fully Implemented Feature 2
-
-List down all the partially implemented features in your project
-
-- [ ] Partially Implemented Feature 1
-- [ ] Partially Implemented Feature 2
+- [x] Can take user input for profile
+- [x] has helpdesk features
 
 ## 🔮Future Scope
 
 List down all the future plans for the project here
 
-- Future Feature 1
-- Future Feature 2
+- can be used as a startup idea
 
 ## 💸Applications
 
-> How can your project do its part in solving a real-life problem? What are its possible applications? Can it be monetized? Describe here.
-
-## 🛠Project Setup
-
-> Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
+>yes it can be monetised , saves time and  helps user to have comfortable delivery.
 
 ## 💻Usage
+## Prerequisites
+- Node.js installed on your machine
+- Git installed on your machine
 
-> Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
+## Installation
+1. Clone the repository to your local machine using Git:
+   ```sh
+   git clone https://github.com/Apoorva2812/collect_karo.git
+
+2. Navigate into the project directory:
+   ```sh
+   cd collect_karo
+
+3. Install dependencies using npm:
+   ```sh
+   npm install   
 
 ## 👨‍💻Team Members
 
@@ -123,13 +112,6 @@ Add names of your mentors with their emails and links to their GitHub accounts
 
 ## 📱Screenshots
 
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
-
-You'll have to link the screenshots from your drive folder here.
-
-![Screenshot alt text]("https://drive.google.com/file/d/1zczlv2VqSiZE5oV7nqgfy4l9ksWVSgJF/view?usp=sharing" "Here is a screenshot")
 ![Screenshot alt text]("https://drive.google.com/file/d/1X0OHtZwbdguXdwv_yzPt-JK5IOUCy4iW/view?usp=sharing" "Here is a screenshot")
 ![Screenshot alt text]("https://drive.google.com/file/d/1fStkykqv4nGNYsB6c6RP7JK2BkdkWdsi/view?usp=sharing" "Here is a screenshot")
 
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
