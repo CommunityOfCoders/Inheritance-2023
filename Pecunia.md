@@ -7,9 +7,9 @@
 </h1>
 
 <div align="center">
-   <strong>Pecunia</strong> - One Sentence Description of your project<br>
-  CoC Inheritance 2023 || Team Name <br> <br>
-  Add any <a href="https://shields.io/">Shields</a> here
+   <strong>Pecunia</strong> - Pecunia is a comprehensive platform facilitating student applications to startups and companies, aiding startups in securing funds from corporations, and assisting companies in recruiting skilled talent.<br>
+  CoC Inheritance 2023 || ICE <br> <br>
+  <!-- Add any <a href="https://shields.io/">Shields</a> here -->
 </div>
 <hr>
 
@@ -32,45 +32,40 @@
 
 ## 📝Description
 
-Add your **project description** here. Your project description should cover how your website/app works. That way you can convey what your project is without the need for anyone to view the code. A more *detailed README* in your project repository is encouraged, which can include build and use instructions etc.
+Pecunia is like a matchmaking site for students and companies. It serves as a bridge connecting students, startups, and established companies. It provides students with a platform to discover job opportunities at startups and corporations, while offering startups the means to secure funding from larger companies. Additionally, Pecunia assists big companies in locating skilled individuals for employment. With its intuitive interface, the website ensures a smooth experience for all users, facilitating efficient job searches and talent acquisition processes.
 
-1. Include features and their usecases in bullet points
+1. Job Listings
+2. Funding Opportunities
+3. Talent Search
+4. Profile Creation
+5. Application Management
+6. Messaging System
+7. Notifications
+8. User Reviews and Ratings
 
 ## 🔗Links
 
-- [GitHub Repository]()
+- [GitHub Repository](https://github.com/toroO4/Pecunia.git)
 - [Demo Video]()
-- [Drive Link to Screenshots of your project]()
-- [Hosted Website Link]()
-- [App APK Link]()
+- [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1fcWJ-h_j5OLljHobmxDV2SqwTug4pvoi?usp=sharing)
+- [Hosted Website Link](https://pecunia-ochre.vercel.app/)
 - [Hosted Backend Link]()
 
-Add any more links/resources you used for your project
 
 ## 🤖Tech-Stack
-
-Mention all languages/libraries/frameworks used in your project **domain-wise**   
-You can use icons too - find them [here](https://github.com/get-icon/geticon) 
 
 #### Front-end
 - HTML
 - CSS
 - JavaScript
-- etc.
+- React
 
 #### Back-end
 - NodeJS
-- ExpressJS
-- etc.
+- MongoDB
 
 #### Database
 - MongoDB
-- SQL
-- etc.
-
-#### Computer Vision
-- OpenCV
-- etc.
 
 ## 📈Progress
 
