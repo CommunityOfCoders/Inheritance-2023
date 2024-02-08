@@ -8,7 +8,6 @@
 <div align="center">
    <strong>UniHub</strong> - Elevating Student Engagement and Collaboration<br>
   CoC Inheritance 2023 || CodeCatalysts <br> <br>
-  Add any <a href="https://shields.io/">Shields</a> here
 </div>
 <hr>
 
