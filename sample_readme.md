@@ -76,20 +76,27 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 
 List down all the fully implemented features in your project
 
-- [x] Fully Implemented Feature 1 
-- [x] Fully Implemented Feature 2
+- [x] Chat System 
+- [x] Listing Property
+- [x] Filter
+- [x] Maps to locate property
+- [x]  
+
 
 List down all the partially implemented features in your project
 
-- [ ] Partially Implemented Feature 1 
-- [ ] Partially Implemented Feature 2
+- [ ] Reminderd 
+- [ ] Review Updation
+- [ ] 
 
 ## 🔮Future Scope
 
 List down all the future plans for the project here
 
-- Future Feature 1
-- Future Feature 2
+- Booking visits for the property
+- Generating a secrative number of the landlord for direct contact without disclosing thir personal details
+- Enabliing payment methods to pay rents etc through our website
+- Creating a personal directory for each property that would contain documents like agreement etc. as well as contact numbers of services like mechanic,repair,electrician
 
 ## 💸Applications
 
