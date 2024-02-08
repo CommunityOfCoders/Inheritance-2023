@@ -124,7 +124,7 @@ In this app we have focused on adding the features which can be used by senior c
 
 
 - [Nikhil Soni ](https://github.com/niksoni2910): nikhilsoni2910@gmail.com 
-- [Akshay Potkhule ](https://github.com/akshay-git20): Email 
+- [Akshay Potkhule ](https://github.com/akshay-git20): akshaypotkhule123@gmail.com 
 
 ## 📱Screenshots
 - ### Login Page
