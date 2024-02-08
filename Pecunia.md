@@ -9,7 +9,6 @@
 <div align="center">
    <strong>Pecunia</strong> - Pecunia is a comprehensive platform facilitating student applications to startups and companies, aiding startups in securing funds from corporations, and assisting companies in recruiting skilled talent.<br>
   CoC Inheritance 2023 || ICE <br> <br>
-  <!-- Add any <a href="https://shields.io/">Shields</a> here -->
 </div>
 <hr>
 
@@ -166,7 +165,7 @@ If you need help using the website or finding a job, there are resources availab
 
 ## 📱Screenshots
 
-![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
+![Base Idea](https://drive.google.com/file/d/1HKmVVHkSKPw14wX95Sr5sp54YFnIpzvu/view?usp=drive_link "Here is a screenshot")
 
 
 
