@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2023">
-    <img src="./COC.png" alt="CoC Inheritance 2022" width="500" height="166">
+    <img src="./Untitled.png" alt="CoC Inheritance 2022" width="500" height="166">
   </a>
   <br>
   StudyNex
