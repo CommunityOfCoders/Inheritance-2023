@@ -3,11 +3,11 @@
     <img src="./Untitled.png" alt="CoC Inheritance 2022" width="500" height="166">
   </a>
   <br>
-  Project Name
+ RentEase
 </h1>
 
 <div align="center">
-   <strong>Project Name</strong> - One Sentence Description of your project<br>
+   <strong>RentEase</strong> - Rental Management System<br>
   CoC Inheritance 2023 || WebGeniousAi <br> <br>
   Add any <a href="https://shields.io/">Shields</a> here
 </div>
@@ -46,14 +46,13 @@ Effortlessly narrow down your choices using various filters, ensuring a swift an
 
 ## 🔗Links
 
-- [GitHub Repository]()
+- [GitHub Repository](https://github.com/KeshavD01/WebGeniusAi.git)
 - [Demo Video]()
-- [Drive Link to Screenshots of your project]()
+- [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/15FuSNA6JsUzyZtmp9VBSMKiQ8Z9Ghr4l?usp=drive_link)
 - [Hosted Website Link]()
-- [App APK Link]()
 - [Hosted Backend Link]()
 
-Add any more links/resources you used for your project
+
 
 ## 🤖Tech-Stack
 
@@ -76,9 +75,8 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 - MongoDB
 - etc.
 
-#### Computer Vision
-- OpenCV
-- etc.
+#### nlp
+-Ml
 
 ## 📈Progress
 
@@ -87,8 +85,9 @@ List down all the fully implemented features in your project
 - [x] Chat System 
 - [x] Listing Property
 - [x] Filter
-- [x] Maps to locate property
-- [x]  
+- [x] CRUD Operations
+- [x] Chatbot
+- [x] Authentication
 
 
 List down all the partially implemented features in your project
@@ -96,19 +95,24 @@ List down all the partially implemented features in your project
 - [ ] Reminder
 - [ ] Review Updation
 - [ ] Detailed Filteration
+- [ ] Charts and Graph
+- [ ] Maps to locate Property
 
 ## 🔮Future Scope
 
 List down all the future plans for the project here
 
 - Booking visits for the property
+- Providing reviews for each property as well as giving detailed information like ammenities,services etc.
 - Generating a secrative number of the landlord for direct contact without disclosing thir personal details
 - Enabliing payment methods to pay rents etc through our website
 - Creating a personal directory for each property that would contain documents like agreement etc. as well as contact numbers of services like mechanic,repair,electrician
+- Sorting the property based on various parameters
 
 ## 💸Applications
 
-Our website becomes a platform for our users to find property without paying any commision as well as carry all the activities through our website only.It also maintains the privacy of the owners not exposing their personal details to any misuse.
+Our website becomes a platform for our users to find property without paying any commision as well as carry all the activities from renting to paying bills through our website only.It also maintains the privacy of the owners not exposing their personal details to any misuse.We provide the feature of chatsystems as well preventing the users to suffer from improper communication.User can get authentic reviews from past experiences of other users.
+
 ## 🛠Project Setup
 
 For the Web-App 1.Clone the GitHub repo.
@@ -117,21 +121,17 @@ git clone https://github.com/KeshavD01/Inheritance-2023.git
 ```
 2.Enter the client directory. Install all the required dependencies.
 ```bash
-  cd client
+  cd frontend
   npm install
   npm start
 ```
 
 3.To start the backend server:4
 ```bash
-  cd server
+  cd backend
   npm install
-  npm run dev
+  npm start
 ```
-
-## 💻Usage
-
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
 
 ## 👨‍💻Team Members
 
@@ -150,12 +150,9 @@ Add names of your mentors with their emails and links to their GitHub accounts
 - [Mentor 2 Ruchika Shirsath](https://github.com/Ruchika-2003):ruchikashirsath2003@gmail.com
 
 ## 📱Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
 
-You'll have to link the screenshots from your drive folder here.
 
-![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
+![Screenshot alt text](https://drive.google.com/drive/folders/15FuSNA6JsUzyZtmp9VBSMKiQ8Z9Ghr4l?usp=drive_link "Here is a screenshot")
 
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
+
 
