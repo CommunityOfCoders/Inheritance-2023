@@ -45,7 +45,7 @@ Pecunia is like a matchmaking site for students and companies. It serves as a br
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/toroO4/Pecunia.git)
-- [Demo Video](https://drive.google.com/file/d/1dG20Z2y_NOrR22UNsVNTB6NwouJgWpVS/view?usp=drive_link)
+- [Demo Video](https://drive.google.com/drive/folders/1fcWJ-h_j5OLljHobmxDV2SqwTug4pvoi?usp=sharing)
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1fcWJ-h_j5OLljHobmxDV2SqwTug4pvoi?usp=sharing)
 - [Hosted Website Link](https://pecunia-ochre.vercel.app/)
 - [Hosted Backend Link](mongodb://localhost:27017)
