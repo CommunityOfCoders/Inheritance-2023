@@ -165,7 +165,12 @@ If you need help using the website or finding a job, there are resources availab
 
 ## 📱Screenshots
 
-![Base Idea](https://drive.google.com/file/d/1HKmVVHkSKPw14wX95Sr5sp54YFnIpzvu/view?usp=sharing "Here is a screenshot")
+<!-- [Base Idea](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot") -->
 
-
+<h1 align="center">
+  <a href="https://github.com/CommunityOfCoders/Inheritance-2023">
+    <img src="./pecunia.png" alt="Shark Tank X LinkedIn" width="500" height="166">
+    <img src="./piechart.png" alt="piechart" width="500" height="166">
+  </a>
+</h1>
 
