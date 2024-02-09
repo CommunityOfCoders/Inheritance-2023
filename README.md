@@ -25,9 +25,10 @@
 - [Screenshots](#screenshots)
 
 </details>
+
 ## 📝Description
  
-WatchHarbour is a website where users can store the  movies they have  watched and review it with the fellow harbour members and share a common forum to discuss about the movies. The movie recommendation system is used to show the most relevant movies to the user based on their binge history entries.  WatchHarbour uses a cosine-similarity algorithm that analyzes the features and genres of movies along with its overview and cast, , to generate a list of movies that match the user’s taste and mood based on their n=binge history. 
+WatchHarbour is a website where users can store the  movies they have  watched and review it with their fellow harbour members, and share a common forum to discuss about the movies. The movie recommendation system is used to show the most relevant movies to the user based on their binge history entries. WatchHarbour uses a cosine-similarity algorithm that analyzes the features and genres of movies along with its overview and cast, to generate a list of movies that match the user’s taste and mood based on their binge history. 
 
 Users can also view movie details, trailers, reviews, and ratings from other users and sources. WatchHarbour aims to help users discover new and interesting movies, and enjoy a better movie-watching experience .
 
@@ -107,6 +108,5 @@ further we plan to implement content - based ML model to get more accurate and r
 
 ## 📱Screenshots
 
-    <img src="assets/WhatsApp Image 2024-02-09 at 13.47.21_effbaf8e.jpg" alt="DASHBOARD" width="500" height="500">
-
+  <img src= "assets/WhatsApp Image 2024-02-09 at 13.47.21_effbaf8e.jpg" alt="DASHBOARD" width="1000" height="500">
 
