@@ -33,7 +33,7 @@ Users can also view movie details, trailers, reviews, and ratings from other use
 
 The cosine similarity method is used to map the movies on the vector 2D plane considering the proximity with its most relevant movies based on overview , ratings and cast.
 
-![flowchart]("C:\Users\Abhinav\Desktop\cosine_similarity pic.png")
+![flowchart]("assets/cosine_similarity pic.png")
 
 further we plan to implement content - based ML model to get more accurate and relevant movie/Tv shows' recommendations also considering other users' interest thus building a community platform and connecting people share similar interest on cinema.
 
