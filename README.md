@@ -107,6 +107,6 @@ further we plan to implement content - based ML model to get more accurate and r
 
 ## 📱Screenshots
 
-    <img src="./Untitled.png" alt="CoC Inheritance 2024" width="500" height="166">
+    <img src="assets/WhatsApp Image 2024-02-09 at 13.47.21_effbaf8e.jpg" alt="DASHBOARD" width="500" height="500">
 
 
