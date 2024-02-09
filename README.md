@@ -53,8 +53,7 @@ further we plan to implement content - based ML model to get more accurate and r
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/adityavivekanand/Watch-Harbour)
-- [Demo Video]("C:\Users\Abhinav\Desktop\MRS- video rec .mp4")
-- [Drive Link to Screenshots of your project]()
+- [Demo Video](assets/Screencast from 09-02-24 12_33_47 PM IST.webm)
 - [Hosted Website Link](https://green-worlds-grin.loca.lt/)
 - [App APK Link](https://green-worlds-grin.loca.lt/)
 - [Hosted Backend Link](https://green-worlds-grin.loca.lt/)
@@ -107,5 +106,7 @@ further we plan to implement content - based ML model to get more accurate and r
 - [Kedar Dhamankar](https://github.com/): 
 
 ## 📱Screenshots
+
+    <img src="./Untitled.png" alt="CoC Inheritance 2024" width="500" height="166">
 
 
