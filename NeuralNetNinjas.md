@@ -79,7 +79,7 @@ Features:
 -  User authentication 
 -  Browsing live stock parameters
 -  Adding stocks to watchlist and portfolio
--  Predicting 50 days stock prices with _ percent accuracy
+-  Predicting 50 days stock prices with RMSE less than 50
 -  Providing graph of historical and prediction data
 -  Providing a buy sell indicator
 -  Fully functional database
