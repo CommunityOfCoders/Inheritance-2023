@@ -108,17 +108,17 @@ Ideal for students and educators exploring real-world applications in finance, d
 ## Project Setup
 1. Clone the github repository
 2. Open terminal in Frontend, and run the command :
-   '''
+   ```
    npm run dev
-   '''
+   ```
 4. Open terminal in python_ml , and run the command :
-   '''
+   ```
    uvicorn fapi_app:app --reload
-   '''
+   ```
 6. Open terminal in server, and run the command (one must create their own MongoDB using the schema in the server folder):
-   '''
+   ```
    npm start
-   '''
+   ```
 
 ## Team Members
 
