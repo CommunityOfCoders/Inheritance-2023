@@ -3,7 +3,7 @@
     <img src="https://github.com/MihirGore23/CryptoAnalyser/blob/main/assets/logo.jpg" alt="CoC Inheritance 2022" width="400" height="400">
   </a>
   <br>
-  CryptoAnalyser
+  CryptoIntel
 </h1>
 
 <div align="center">
