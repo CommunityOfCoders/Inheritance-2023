@@ -3,11 +3,11 @@
     <img src="https://github.com/MihirGore23/CryptoAnalyser/blob/main/assets/proj_logo.jpg" alt="CoC Inheritance 2022" width="250" height="250">
   </a>
   <br>
-  CryptoIntel
+  CryptoAnalyser
 </h1>
 
 <div align="center">
-   <strong>CryptoIntel</strong> - Web Interface to monitor crypto assets and forecast price projections into the future.<br>
+   <strong>CryptoAnalyser</strong> - Web Interface to monitor crypto assets and forecast price projections into the future.<br>
   CoC Inheritance 2023 || BroCode <br> <br>
   </a> 
 </div>
