@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2023">
-    <img src="./Untitled.png" alt="CoC Inheritance 2022" width="500" height="166">
+    <img src="https://github.com/MihirGore23/CryptoAnalyser/blob/main/assets/logo.jpg" alt="CoC Inheritance 2022" width="400" height="400">
   </a>
   <br>
   CryptoAnalyser
@@ -30,7 +30,7 @@
 
 </details>
 
-## 📝Description
+## Description
 
 CryptoAnalyser, is an all-in-one platform for staying on top of the dynamic world of cryptocurrencies. This web application not only provides real-time updates on cryptocurrency prices but also harnesses the power of machine learning to predict future price movements. Additionally, CryptoAnalyser offers a user login system, enabling users to track their private cryptocurrency portfolios seamlessly.
 
@@ -40,13 +40,12 @@ CryptoAnalyser, is an all-in-one platform for staying on top of the dynamic worl
 - **Machine Learning Predictions:** Utilize a machine learning model to predict future cryptocurrency prices. The model employs [your chosen algorithm or model] for accurate predictions.
 - **User Login and Portfolio Management:** Users can create accounts, log in securely, and manage their private cryptocurrency portfolios. Track your investments and analyze your portfolio's performance over time.
 
-## 🔗Links
+## Links
 
 - [GitHub Repository](https://github.com/MihirGore23/CryptoAnalyser)
-- [Demo Video]()
 
 
-## 🤖Tech-Stack
+## Tech-Stack
 
 
 #### Front-end
@@ -61,7 +60,7 @@ CryptoAnalyser, is an all-in-one platform for staying on top of the dynamic worl
 - Node
 - Express
 - MongoDB
-- Python (Tensorflow)
+- Python 
 
 #### API
 - YahooFinance
@@ -69,25 +68,18 @@ CryptoAnalyser, is an all-in-one platform for staying on top of the dynamic worl
 - CoinGecko
 
 
-## 📈Progress
-
-Fully Implemented Features
+## Features
 
 - Predicting the future prices of cryptocurrencies
 -  Developed a user-friendly website that displays current statistics of cryptocurrencies and their future market trends.
 - A user login system where the user can add their portfolio transactions, and track the respective currencies
 
-Partially implemented Features
-
-- [ ] Partially Implemented Feature 1 
-- [ ] Partially Implemented Feature 2
-
-## 🔮Future Scope
+## Future Scope
 
 - Develop a framework to facilitate buying and selling of cryptocurrencies from the website itself
 - Providing personalised advice to every user based on the past and projected performance of all their holdings
 
-## 💸Applications
+## Applications
 
 
 ### 1. **Crypto Investors and Traders**
@@ -113,29 +105,25 @@ Ideal for students and educators exploring real-world applications in finance, d
 
 
 
-## 🛠Project Setup
+## Project Setup
 
->Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
 
-## 💻Usage
 
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
-
-## 👨‍💻Team Members
+## Team Members
 
 
 
 - [Mihir Gore](https://github.com/MihirGore23): mihirvgore@outlook.com
-- [Soham Ghadge](https://github.com/): sohamghadge2004@gmail.com
-- [Sharayu Mane](https://github.com/): sharayujmane29@gmail.com
+- [Soham Ghadge](https://github.com/Soham-Ghadge): sohamghadge2004@gmail.com
+- [Sharayu Mane](https://github.com/zincaffectocate): sharayujmane29@gmail.com
 
 
 ## 👨‍🏫Mentors
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Yatharth Dedhia](https://github.com/): Email 
-- [Dev Bhuva](https://github.com/): Email 
+- [Yatharth Dedhia](https://github.com/YatharthDedhia): dedhiayatharth2004@gmail.com 
+- [Dev Bhuva](https://github.com/DEVelooper29): devbbhuva@gmail.com 
 
 ## 📱Screenshots
 
