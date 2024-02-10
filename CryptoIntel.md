@@ -1,13 +1,13 @@
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2023">
-    <img src="https://github.com/MihirGore23/CryptoAnalyser/blob/main/assets/logo.jpg" alt="CoC Inheritance 2022" width="400" height="400">
+    <img src="https://github.com/MihirGore23/CryptoAnalyser/blob/main/assets/logo.jpg" alt="CoC Inheritance 2022" width="250" height="250">
   </a>
   <br>
   CryptoIntel
 </h1>
 
 <div align="center">
-   <strong>CryptoAnalyser</strong> - Web Interface to monitor crypto assets and forecast price projections into the future.<br>
+   <strong>CryptoIntel</strong> - Web Interface to monitor crypto assets and forecast price projections into the future.<br>
   CoC Inheritance 2023 || BroCode <br> <br>
   </a> 
 </div>
@@ -118,14 +118,12 @@ Ideal for students and educators exploring real-world applications in finance, d
 - [Sharayu Mane](https://github.com/zincaffectocate): sharayujmane29@gmail.com
 
 
-## 👨‍🏫Mentors
+## Mentors
 
-Add names of your mentors with their emails and links to their GitHub accounts
 
 - [Yatharth Dedhia](https://github.com/YatharthDedhia): dedhiayatharth2004@gmail.com 
 - [Dev Bhuva](https://github.com/DEVelooper29): devbbhuva@gmail.com 
 
-## 📱Screenshots
 
 
 
