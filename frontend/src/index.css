@@ -1,0 +1,353 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Montserrat:wght@300;400;800&family=Roboto:ital,wght@1,300;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&family=Nanum+Gothic:wght@800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer components{
+    .wrapper-container{
+        @apply max-w-5xl mx-auto px-2
+    }
+} */
+
+.wrapper-container {
+  display: flex;
+  height: calc(100vh - 50px); 
+  background-color: black;
+  margin-top: 3px; 
+}
+
+.coin-detail {
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+  text-align: justify;
+  font-size: large;
+}
+
+.history-chart {
+  flex: 1;
+}
+
+.line {
+  border-right: 1px solid rgba(255, 255, 255, 0.5);
+  height: 100%;
+  margin: 0 20px;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0; 
+  padding: 0;
+  min-height: 100vh;
+  background-color: #03045e;;
+  background-size: cover;
+  background-position: center;
+  font-family: "Quicksand", sans-serif;
+}
+
+
+nav {
+  background-size: cover;
+  background-color: #03045e;
+  box-shadow: 3px 3px 5px white;
+}
+
+nav ul {
+  width: 100%;
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+nav li {
+  height: 50px;
+}
+
+nav a {
+  height: 100%;
+  padding: 0 30px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  color: white;
+}
+
+nav a:hover {
+  background-color: #0096c7;
+}
+
+/* 
+for cards */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  justify-content: space-evenly;
+}
+
+.card {
+  width: 290px;
+  height: 354px;
+  background: #03045e;
+  border-radius: 15px;
+  box-shadow: 1px 5px 60px 0px #03045e;
+  margin-top: 40px;
+  margin-left: 20px;
+  display: inline-block;
+  flex-wrap: wrap;
+
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #0096c7;
+  justify-content: space-evenly; /* or space-between depending on your preference */
+  padding: 20px; /* Adjust as needed */
+}
+
+.card .card-border-top {
+  width: 60%;
+  height: 3%;
+  background: #0077b6;
+  margin: auto;
+  border-radius: 0px 0px 15px 15px;
+}
+
+.card span {
+  font-weight: 600;
+  color: black;
+  text-align: center;
+  display: block;
+  padding-top: 10px;
+  font-size: 30px;
+}
+
+.card-space{
+  display:ruby
+
+}
+.card .job {
+  font-weight: bold;
+  color: black;
+  display: block;
+  text-align: center;
+  padding-top: 3px;
+  font-size: 25px;
+}
+
+.card .img {
+  width: 115px;
+  height: 115px;
+  /* background: #0077b6; */
+  border-radius: 15px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.card button {
+  padding: 8px 25px;
+  display: block;
+  margin: auto;
+  border-radius: 8px;
+  border: none;
+  margin-top: 30px;
+  background: #0077b6;
+  color: white;
+  font-weight: 600;
+}
+.button {
+  font-size: 12px;
+}
+.card button:hover {
+  background: #CAF0F8;
+}
+
+.img {
+  text-align: center;
+}
+
+.img img {
+  display: inline;
+  padding-top: 20%;
+}
+
+.hover-glow {
+  background-color: #00B4D8;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  transition: box-shadow 0.3s ease-in-out;
+}
+.hover-glow:hover {
+  box-shadow: 0 0 20px whitesmoke; /* Adjust the color and size as needed */
+}
+
+/* about page */
+.about1 {
+  padding-top: 3vh;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.about2 {
+  font-size: larger;
+  padding-top: 3vh;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.intro {
+  font-family: 'Bebas Neue', sans-serif;
+
+  
+}
+/* src/index.css */
+@font-face {
+  font-family: 'Bebas Neue';
+  src: local('Bebas Neue'), url('./fonts/BebasNeue-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Portfolio css */
+.card-port {
+  width: 100%;
+  height: 254px;
+  background: #07182E;
+  position: relative;
+  display: flex;
+  place-content: center;
+  place-items: center;
+  overflow: hidden;
+  border-radius: 20px;
+}
+
+
+.card-port h2 {
+  z-index: 1;
+  color: white;
+  margin-bottom: 10px;
+  margin-right : 30px;/* Add margin to create space */
+  font-size: 2em;
+}
+.card-port div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card-port .info-section {
+  margin-top: 20px; /* Add margin to create space */
+}
+
+.card-port::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  background-image: linear-gradient(180deg, rgb(0, 183, 255), rgb(255, 48, 255));
+  height: 130%;
+  animation: rotBGimg 3s linear infinite;
+  transition: all 0.2s linear;
+}
+
+@keyframes rotBGimg {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.card-port::after {
+  content: '';
+  position: absolute;
+  background: #07182E;
+  ;
+  inset: 5px;
+  border-radius: 15px;
+}  
+.card-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  z-index: -1;
+}
+
+/* CryptoPredictions css */
+.cp_table{
+  border: 1px solid; 
+  padding: 1rem; 
+  border-radius: 0.5rem; 
+  font-size: 1.25rem; 
+  
+  transition: box-shadow 0.3s ease;
+  box-shadow: 
+  0 0 10px 0 #00a6fb, 
+  0 0 10px 0#00a6fb inset, 
+  10px 0 10px -10px #00a6fb, 
+  -10px 0 10px -10px #00a6fb; 
+  /* background: linear-gradient(90deg, rgba(3,4,94,1) 15%, rgba(0,180,216,1) 80%, rgba(173,232,244,1) 97%); */
+}
+
+.cp_text{
+
+   font-weight: bold;
+   font-size:x-large;
+  
+   
+   @font-face {
+    font-family: 'Bebas Neue';
+    src: local('Bebas Neue'), url('./fonts/BebasNeue-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+}
+
+.crypto-details-container {
+  display: flex;
+  justify-content: space-between; }
+
+.crypto-info-container {
+  width: 50%; 
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+.history-chart-container {
+  margin-top: 50px;
+  margin-right: 70px;
+  width: 70%; 
+
+}
+
+.mi {
+  display: block;
+}
