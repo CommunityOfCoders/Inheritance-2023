@@ -138,7 +138,7 @@ Add names of your team members with their emails and links to their GitHub accou
 - [Team Member 1 Sanskar Wakchaure](https://github.com/MynameisSanskar):spwakchaure_b22@ce.vjti.ac.in
 - [Team Member 2 Keshav Dhanuka](https://github.com/KeshavD01): ksdhanuka_b22@it.vjti.ac.in
 - [Team Member 2 Denish Suhagiya](https://github.com/Denish004): denishsuhagiya18@gmail.com
-- [Team Member 2 Ariv Fernandes](https://github.com/KeshavD01): ksdhanuka_b22@it.vjti.ac.in 
+- [Team Member 2 Ariv Fernandes](https://github.com/Ariv-Fernandes): arivfernandes@gmail.com 
 
 ## 👨‍🏫Mentors
 
